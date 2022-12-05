@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899428480811",
+    "project_id": "fir-intro-cc576",
+    "storage_bucket": "fir-intro-cc576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899428480811:android:454b2798d1c0fedeeff76e",
+        "android_client_info": {
+          "package_name": "com.example.firebaseintro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899428480811-hnppk9d1me4tl1grd8sgmfhcfe51lskj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZQ1J9cr4ngVAmHofzOX3-nJ9NmTJgMe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899428480811-hnppk9d1me4tl1grd8sgmfhcfe51lskj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
